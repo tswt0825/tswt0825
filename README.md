@@ -1,6 +1,6 @@
 # Hei, jeg er Therese 👋
 
-✨ Frontend-student som lærer å bygge moderne og brukervennlige nettsider.
+✨ Fullstack-student som lærer å bygge moderne og brukervennlige nettsider.
 
 Jeg liker å lære gjennom ekte prosjekter og utvikle meg litt hver dag. Akkurat nå jobber jeg mest med HTML, CSS og JavaScript.
 
